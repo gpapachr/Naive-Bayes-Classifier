@@ -11,6 +11,10 @@ Also here is the graph showing the best Recall, Precision and F1 values, reached
 
 ![f1-precision-recall](https://user-images.githubusercontent.com/79640797/109861604-27bbe380-7c68-11eb-8e37-59d47e03b154.png)
 
-# Data Link
+## Data Link
 
 https://ai.stanford.edu/~amaas/data/sentiment/
+
+## Colaborator
+
+[@Fotios Panos](https://github.com/fotispanos)
